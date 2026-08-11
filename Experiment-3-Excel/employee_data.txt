@@ -1,0 +1,5 @@
+Emp_ID	Name	Department	Salary
+201	Rahul	IT	45000
+202	Sneha	HR	38000
+203	Arjun	Finance	52000
+204	Priya	Marketing	41000
