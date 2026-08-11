@@ -1,0 +1,31 @@
+id,title,state,user
+5123186137,gh-100710: Add nodeValue default to xml.dom.minidom.Node base class,open,SomSamantray
+5123176307,[3.13] gh-110167: Document the increase of `test.support.LOOPBACK_TIMEOUT` to 10 seconds (GH-155571),open,miss-islington
+5123175606,[3.14] gh-110167: Document the increase of `test.support.LOOPBACK_TIMEOUT` to 10 seconds (GH-155571),open,miss-islington
+5123174715,[3.15] gh-110167: Document the increase of `test.support.LOOPBACK_TIMEOUT` to 10 seconds (GH-155571),open,miss-islington
+5122623904,[3.15] gh-82039: Relax cookiejar.py case-sensitive regex for the inconsequential first line of the cookie file (GH-15673),open,miss-islington
+5122512744,[3.15] gh-155363: Fix QSBR slot leak on thread state creation failure (gh-155365),open,miss-islington
+5122506142,gh-155575: Fix eager tasks inheriting the creator's exception state,open,deadlovelll
+5122362970,[3.10] gh-152216: Update bundled expat to 2.8.2 (GH-152234),open,StanFromIreland
+5122331084,[3.11] gh-152216: Update bundled expat to 2.8.2 (GH-152234),open,StanFromIreland
+5122092612,asyncio eager task inherits the creators exception state,open,deadlovelll
+5122034901,[3.15] gh-155485: Skip `test_pyexpat.test_subparser_inherits_reparse_deferral` when Expat < 2.6.0 (GH-155554),open,miss-islington
+5121596332,gh-155561: Build most _testlimitedcapi files with Py_TARGET_ABI3T,open,vstinner
+5121413376,[3.15] gh-76303: Improve documentation of the -x command line option (GH-155559),open,miss-islington
+5121354420,[3.15] Docs: simplify `turtle` tutorial's star example code (GH-155232),open,miss-islington
+5121324456,C API: Enable limited C API tests on Free Threading,open,vstinner
+5121244152,gh-155558: Update bundled Expat to 2.8.3,open,StanFromIreland
+5121121993,Upgrade bundled Expat to 2.8.3 (e.g. for the fix to CVE-2026-72522),open,hartwork
+5120803203,[3.15] gh-154568: Fix array unpickling of little-endian float16 (GH-154569),open,miss-islington
+5120562367,gh-155555: `str.find` equal length fast path,open,dg-pb
+5120430596,`str.find` equal length fast path,open,dg-pb
+5119491912,gh-154753: docs: update references to moved files,open,BHUVANSH855
+5118842217,gh-151316: Prefer UTF-8 for the en_IN locale alias,open,sankalpsthakur
+5118820022,[3.15] gh-154874: Fix the sign of curses.termattrs() (GH-154875),open,sankalpsthakur
+5118182091,gh-142349: Clarify that sys.lazy_modules may contain extra items,open,encukou
+5118154300,[3.13] gh-155411: Fix test.support.subTests() for asynchronous tests (GH-155412),open,miss-islington
+5118153324,[3.14] gh-155411: Fix test.support.subTests() for asynchronous tests (GH-155412),open,miss-islington
+5118152659,[3.15] gh-155411: Fix test.support.subTests() for asynchronous tests (GH-155412),open,miss-islington
+5118114563,[3.15] Fix description of -W message field in man page (GH-111371),open,miss-islington
+5117514297,gh-155445: Fix the calculation of constant HAVE_GETVALUE in `test._test_multiprocessing`. ,open,YvesDup
+5117244906,`CALL_METHOD_DESCRIPTOR_*` misses for inherited built-in methods on subclass instances,open,marinelay
